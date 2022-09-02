@@ -1,0 +1,148 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Luis",
+      "surnames": "Delgado Sepulveda",
+      "title": "Java Backend Developer",
+      "description": "Soy una persona con muchas ganas de aprender y mejorar tanto profesional como personalmente. Me distingo por estar en constante aprendizaje y crecimiento, poseo la capacidad de adaptarme a los cambios y trabajo en equipo, vengo de la programación industrial y quiero integrarme en este mundo del software que es lo que siempre me ah apasionado desde que tuve mi primera computadora.",
+      "avatar": {
+        "alt": "118036891_113857667098600_5382412909182874380_n.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/02/16d5756b-40c0-4522-9ff4-f378f03acb03_118036891_1138576670.jpg"
+      },
+      "location": {
+        "notes": "undefined, Chile"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/LuisDsepulveda"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/luisdsepulveda/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Me gusta el cine",
+        "fact": "Mis peliculas favoritas son:\n- La saga de StarWars\n- El universo de marvel\n- HarryPotter"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/luisdsepulveda/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Hibernate",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
